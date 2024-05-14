@@ -1,0 +1,2 @@
+# Market-Research 
+ Costal Owners Associations Management" is solely crafted to sharpen my front-end skills. Inspired by designs from Figma, this project is a testament to my proficiency in HTML, CSS, and Bootstrap. Its design has been meticulously translated from Figma to a functional web interface. Through this endeavor, I aim to showcase my ability to bring digital designs to life while enhancing user experience and interface design. Dive into the project to witness the seamless integration of Figma's creative vision with my coding expertise!
